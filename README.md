@@ -18,30 +18,34 @@ Applay this "intelligent Crawler" to automatically extract structured data from 
 
 # Data Pipeline
 1. Targeting Reliable Sources
+    1. [Refereces](docs/README.md)
     1. Definition of white list: reliable sources of information.
-    1. International Fact-Checking Network’s code of principles.
-    1. White list: json file (url, name, language, country)
+    1. [International Fact-Checking Network’s code of principles](https://ifcncodeofprinciples.poynter.org/)
+    1. Fields (url, name, language, country)
 1. (E) Data Extraction
-    1. References -> github. 
+    1. [Refereces](docs/README.md)
     1. Scrapy - pipeline. 
     1. What are the crawling modalities? 
     1. How to deal with pagination (automatically)?
     1. How to filter out non-informative web page? - intelligent crawlers 
 1. (T) Data Transformation
-    1. Reference ->  Github.
+    1. [Refereces](docs/README.md)
     1. How to tranform data into information?
     1. Goal: ML model for extraction of structured information from unstructured data (multi language).
     1. Training: URL & its structured fields.
     1. BERT - multilingual language model - Roberta.
 1. (L) Data Load
+    1. [Refereces](docs/README.md)
     1. Semantic Data Concepts.
     1. Suitable Ontology
     1. What are the storage technologies for Open Knowledge Base/Graph.
     1. Normalization / Disambiguation      
     1. Linked Data / DBpedia, etc.
 
-# Research Problems
-1. How to extract 
+# Research Problems addressed here
+1. How to create a machine readable KB?
+    1. How to use ML methods to extract information from unstructured data? 
+    1. How to link a KB to existing Open Data Repositories (e.g. dbpedia.org)   
 
 # Running Intelligent Crawler
 First create a virtualenv and install all dependencies:
@@ -51,17 +55,9 @@ First create a virtualenv and install all dependencies:
 
 Run *transform.py* script :  `python transform.py`
 
-
-## List of Fact-checker to be considered
-We will rely on agencies recognized by the fact-checking community as trustworthy according to International Fact-Checking Network's 
-code of principles \footnote{https://ifcncodeofprinciples.poynter.org/}. 
- 
 ## Information Extracted
 From the fact-checker, we use only metadata publicly available on the internet, such as the claim, date, source, amongst others.
 
-
-# References
-- https://github.com/scrapy/scrapely
 
 
 # related projects
