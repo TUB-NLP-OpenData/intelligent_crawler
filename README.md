@@ -19,6 +19,15 @@ However, the information is structured in different manners depending on the web
 Applay this "intelligent Crawler" to automatically extract structured data from fact-checkers.  
 
 
+# Running Intelligent Crawler
+First create a virtualenv and install all dependencies:
+- ``virtualenv .venv``
+- ``. .venv/bin/activate``
+- ``pip install -r requirements.txt``
+
+Run *transform.py* script :  `python transform.py`
+
+
 ## List of Fact-checker to be considered
 We will rely on agencies recognized by the fact-checking community as trustworthy according to International Fact-Checking Network's 
 code of principles \footnote{https://ifcncodeofprinciples.poynter.org/}. 
