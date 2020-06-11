@@ -1,0 +1,1133 @@
+"white_list": [
+{
+     "name": "20 Minutes",
+     "country": "France",
+     "language": "French",
+     "url": "https://www.20minutes.fr/societe/desintox/"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "France",
+     "language": "French",
+     "url": "https://www.afp.com/fr/plateforme-de-linfo"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "United States",
+     "language": "English",
+     "url": "https://www.afp.com/en/news-hub"
+},
+
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Canada",
+     "language": "English",
+     "url": "https://www.afp.com/en/news-hub"
+},
+
+
+{
+     "name": "AFP Fact Checking",
+     "country": "United Kingdom",
+     "language": "English",
+     "url": "https://www.afp.com/en/news-hub"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Australia",
+     "language": "English",
+     "url": "https://www.afp.com/en/news-hub"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Germany",
+     "language": "German",
+     "url": "https://www.afp.com/de"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Austria",
+     "language": "German",
+     "url": "https://www.afp.com/de"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Brazil",
+     "language": "Portuguese",
+     "url": "https://www.afp.com/pt"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Portugal",
+     "language": "Portuguese",
+     "url": "https://www.afp.com/pt"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Spain",
+     "language": "Spanish",
+     "url": "https://www.afp.com/es"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Argentina",
+     "language": "Spanish",
+     "url": "https://www.afp.com/es"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Chile",
+     "language": "Spanish",
+     "url": "https://www.afp.com/es"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Uruguay",
+     "language": "Spanish",
+     "url": "https://www.afp.com/es"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Bolivia",
+     "language": "Spanish",
+     "url": "https://www.afp.com/es"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Peru",
+     "language": "Spanish",
+     "url": "https://www.afp.com/es"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Mexico",
+     "language": "Spanish",
+     "url": "https://www.afp.com/es"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Saudi Arabia",
+     "language": "Arabic",
+     "url": "https://www.afp.com/ar/news-hub"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Egypt",
+     "language": "Arabic",
+     "url": "https://www.afp.com/ar/news-hub"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Jordan",
+     "language": "Arabic",
+     "url": "https://www.afp.com/ar/news-hub"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Libya",
+     "language": "Arabic",
+     "url": "https://www.afp.com/ar/news-hub"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Tunisia",
+     "language": "Arabic",
+     "url": "https://www.afp.com/ar/news-hub"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Morocoo",
+     "language": "Arabic",
+     "url": "https://www.afp.com/ar/news-hub"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Algeria",
+     "language": "Arabic",
+     "url": "https://www.afp.com/ar/news-hub"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Iraq",
+     "language": "Arabic",
+     "url": "https://www.afp.com/ar/news-hub"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Iran",
+     "language": "Arabic",
+     "url": "https://www.afp.com/ar/news-hub"
+},
+
+{
+     "name": "AFP Fact Checking",
+     "country": "Qatar",
+     "language": "Arabic",
+     "url": "https://www.afp.com/ar/news-hub"
+},
+
+{
+     "name": "AP",
+     "country": "United States",
+     "language": "English",
+     "url": "https://www.ap.org/en-gb/"
+},
+
+{
+     "name": "Lupa",
+     "country": "Brazil",
+     "language": "Portuguese",
+     "url": "https://piaui.folha.uol.com.br/lupa/"
+},
+
+{
+     "name": "Boom",
+     "country": "India",
+     "language": "Hindi",
+     "url": "https://hindi.boomlive.in/"
+},
+
+{
+     "name": "Boom",
+     "country": "Bangladesh",
+     "language": "Bengali",
+     "url": "https://bangla.boomlive.in/"
+},
+
+{
+     "name": "Boom",
+     "country": "Myanmar",
+     "language": "Burmese",
+     "url": "https://www.boommyanmar.com/"
+},
+
+{
+     "name": "Correctiv",
+     "country": "Germany",
+     "language": "German",
+     "url": "https://correctiv.org/"
+},
+
+{
+     "name": "Correctiv",
+     "country": "Germany",
+     "language": "English",
+     "url": "https://correctiv.org/en/"
+},
+
+{
+     "name": "Liputan 6",
+     "country": "Indonesia",
+     "language": "Indonesian",
+     "url": "https://www.liputan6.com/"
+},
+
+{
+     "name": "Suara",
+     "country": "Indonesia",
+     "language": "Indonesian",
+     "url": "https://www.suara.com/"
+},
+
+{
+     "name": "Center for Democratic Transition",
+     "country": "Montenegro",
+     "language": "Croatian",
+     "url": "https://www.raskrinkavanje.me/"
+},
+
+{
+     "name": "Check Your Fact",
+     "country": "United States",
+     "language": "English",
+     "url": "https://checkyourfact.com/"
+},
+
+{
+     "name": "Colombia Check",
+     "country": "Colombia",
+     "language": "Spanish",
+     "url": "https://colombiacheck.com/"
+},
+
+
+{
+     "name": "Congo Check",
+     "country": "Democratic Republic of the Congo",
+     "language": "French",
+     "url": "http://www.congocheck.net/"
+},
+
+{
+     "name": "Congo Check",
+     "country": "Republic of the Congo",
+     "language": "French",
+     "url": "http://www.congocheck.net/"
+},
+
+{
+     "name": "Contejo",
+     "country": "Venezuela",
+     "language": "Spanish",
+     "url": "https://cotejo.info/"
+},
+
+{
+     "name": "Doğruluk Payı",
+     "country": "Turkey",
+     "language": "Turkish",
+     "url": "https://www.dogrulukpayi.com/"
+},
+
+{
+     "name": "Dubawa",
+     "country": "Nigeria",
+     "language": "English",
+     "url": "https://dubawa.org/"
+},
+
+{
+     "name": "Dubawa",
+     "country": "Ghana",
+     "language": "English",
+     "url": "https://dubawa.org/"
+},
+
+{
+     "name": "Décrypteurs",
+     "country": "Canada",
+     "language": "French",
+     "url": "https://ici.radio-canada.ca/decrypteurs"
+},
+
+{
+     "name": "EFE Verifica - Agencia EFE",
+     "country": "Spain",
+     "language": "Spanish",
+     "url": "https://www.efe.com/efe/espana/efeverifica/50001435"
+},
+
+{
+     "name": "Ellinika Hoaxes",
+     "country": "Greece",
+     "language": "Greek",
+     "url": "https://www.ellinikahoaxes.gr/"
+},
+
+{
+     "name": "FACTLY MEDIA & RESEARCH",
+     "country": "India",
+     "language": "English",
+     "url": "https://factly.in/"
+},
+
+{
+     "name": "FACTLY MEDIA & RESEARCH",
+     "country": "India",
+     "language": "Telugu",
+     "url": "https://factly.in/category/telugu/"
+},
+
+{
+     "name": "Fact Crescendo",
+     "country": "India",
+     "language": "English",
+     "url": "https://english.factcrescendo.com/"
+},
+
+{
+     "name": "Fact Crescendo",
+     "country": "India",
+     "language": "English",
+     "url": "https://english.factcrescendo.com/"
+},
+
+{
+     "name": "Fact Crescendo",
+     "country": "India",
+     "language": "Marathi",
+     "url": "https://marathi.factcrescendo.com/"
+},
+
+{
+     "name": "Fact Crescendo",
+     "country": "India",
+     "language": "Malayalam",
+     "url": "https://www.malayalam.factcrescendo.com/"
+},
+
+{
+     "name": "Fact Crescendo",
+     "country": "India",
+     "language": "Gujarati",
+     "url": "https://gujarati.factcrescendo.com/"
+},
+
+{
+     "name": "Fact Crescendo",
+     "country": "India",
+     "language": "Tamil",
+     "url": "https://tamil.factcrescendo.com/"
+},
+
+{
+     "name": "Fact Crescendo",
+     "country": "India",
+     "language": "Odia",
+     "url": "https://odia.factcrescendo.com/"
+},
+
+{
+     "name": "Fact Crescendo",
+     "country": "India",
+     "language": "Assamese",
+     "url": "https://assamese.factcrescendo.com/"
+},
+
+{
+     "name": "Fact Crescendo",
+     "country": "India",
+     "language": "Sinhala",
+     "url": "https://srilanka.factcrescendo.com/"
+},
+
+{
+     "name": "Fact Crescendo",
+     "country": "India",
+     "language": "Burmese",
+     "url": "https://myanmar.factcrescendo.com/"
+},
+
+{
+     "name": "FactCheck Georgia",
+     "country": "Georgia",
+     "language": "Georgian",
+     "url": "https://factcheck.ge/ka?"
+},
+
+{
+     "name": "FactCheck ",
+     "country": "United States",
+     "language": "English",
+     "url": "https://www.factcheck.org/"
+},
+
+{
+     "name": "FactCheckNI",
+     "country": "United Kingdom",
+     "language": "English",
+     "url": "https://factcheckni.org/"
+},
+
+{
+     "name": "GhanaFact",
+     "country": "Ghana",
+     "language": "English",
+     "url": "https://ghanafact.com/"
+},
+
+{
+     "name": "FactCheck.kz",
+     "country": "Kazakhstan",
+     "language": "Russian",
+     "url": "https://factcheck.kz/"
+},
+
+{
+     "name": "FactCheck.kz",
+     "country": "Kazakhstan",
+     "language": "Kazakh",
+     "url": "https://factcheck.kz/kaz/"
+},
+
+{
+     "name": "FactCheck.kz",
+     "country": "Kazakhstan",
+     "language": "English",
+     "url": "https://factcheck.kz/en/"
+},
+
+{
+     "name": "Faktisk",
+     "country": "Norway",
+     "language": "Norwegian",
+     "url": "https://www.faktisk.no/"
+},
+
+{
+     "name": "Faktograf",
+     "country": "Croatia",
+     "language": "Croatian",
+     "url": "https://faktograf.hr/"
+},
+
+{
+     "name": "Faktoje.al",
+     "country": "Albania",
+     "language": "Albanian",
+     "url": "https://faktoje.al/"
+},
+
+{
+     "name": "Fatabyyano Project",
+     "country": "Jordan",
+     "language": "Arabic",
+     "url": "https://fatabyyano.net/"
+},
+
+{
+     "name": "Full Fact",
+     "country": "United Kingdom",
+     "language": "English",
+     "url": "https://fullfact.org/"
+},
+
+{
+     "name": "Grupo La Republica Publicaciones SA",
+     "country": "Peru",
+     "language": "Spanish",
+     "url": "https://larepublica.pe/verificador/"
+},
+
+{
+     "name": "Istinomer",
+     "country": "Serbia",
+     "language": "Bosnian",
+     "url": "https://www.istinomer.rs/"
+},
+
+{
+     "name": "Istinomer",
+     "country": "Serbia",
+     "language": "English",
+     "url": "https://english.istinomer.rs/"
+},
+
+{
+     "name": "Istinomjer",
+     "country": "Bosnia and Herzegovina",
+     "language": "Bosnian",
+     "url": "https://istinomjer.ba/"
+},
+
+{
+     "name": "JTBC",
+     "country": "Republic of Korea",
+     "language": "Korean",
+     "url": "http://news.jtbc.joins.com/factcheck/"
+},
+
+{
+     "name": "Kompas",
+     "country": "Indonesia",
+     "language": "Indonesian",
+     "url": "https://www.kompas.com/"
+},
+
+{
+     "name": "Knack Magazine, Roularta Media Group",
+     "country": "Belgium",
+     "language": "Dutch",
+     "url": "https://www.knack.be/nieuws/factchecker/"
+},
+
+{
+     "name": "Kallkritikbyran",
+     "country": "Sweden",
+     "language": "Swedish",
+     "url": "https://kallkritikbyran.se/"
+},
+
+{
+     "name": "La Silla Vacia",
+     "country": "Colombia",
+     "language": "Spanish",
+     "url": "https://lasillavacia.com/"
+},
+
+{
+     "name": "Lead Stories",
+     "country": "United States",
+     "language": "English",
+     "url": "https://leadstories.com/"
+},
+
+{
+     "name": "Liberation CheckNews",
+     "country": "France",
+     "language": "French",
+     "url": "https://www.liberation.fr/checknews,100893"
+},
+
+{
+     "name": "Mafindo",
+     "country": "Indonesia",
+     "language": "Indonesian",
+     "url": "http://www.mafindo.or.id/"
+},
+
+{
+     "name": "Maharat-News",
+     "country": "Lebanon",
+     "language": "Arabic",
+     "url": "https://maharat-news.com/"
+},
+
+{
+     "name": "Maldita.es",
+     "country": "Spain",
+     "language": "Spanish",
+     "url": "https://maldita.es/malditobulo/"
+},
+
+{
+     "name": "Media Wise",
+     "country": "United States",
+     "language": "English",
+     "url": "https://www.poynter.org/mediawise/"
+},
+
+{
+     "name": "My Go Pen",
+     "country": "Taiwan",
+     "language": "Chinese",
+     "url": "https://www.mygopen.com/"
+},
+
+{
+     "name": "Myth Detector",
+     "country": "Gorgia",
+     "language": "English",
+     "url": "http://www.mdfgeorgia.ge/eng/home"
+},
+
+{
+     "name": "Myth Detector",
+     "country": "Gorgia",
+     "language": "Geogian",
+     "url": "http://www.mdfgeorgia.ge/geo/home/"
+},
+
+{
+     "name": "NewsMobile",
+     "country": "India",
+     "language": "English",
+     "url": "www.newsmobile.in"
+},
+
+{
+     "name": "Newschecker.in",
+     "country": "India",
+     "language": "English",
+     "url": "http://newschecker.in/"
+},
+
+{
+     "name": "Newschecker.in",
+     "country": "India",
+     "language": "Hindi",
+     "url": "https://hindi.newschecker.in/"
+},
+
+{
+     "name": "Newschecker.in",
+     "country": "India",
+     "language": "Marathi",
+     "url": "https://marathi.newschecker.in/"
+},
+
+{
+     "name": "Newschecker.in",
+     "country": "India",
+     "language": "Punjabi",
+     "url": "https://punjabi.newschecker.in/"
+},
+
+{
+     "name": "Newschecker.in",
+     "country": "India",
+     "language": "Gujarati",
+     "url": "https://gujarati.newschecker.in/"
+},
+
+{
+     "name": "Newschecker.in",
+     "country": "India",
+     "language": "Tamil",
+     "url": "https://tamil.newschecker.in/"
+},
+
+{
+     "name": "Newschecker.in",
+     "country": "India",
+     "language": "Urdu",
+     "url": "https://urdu.newschecker.in/"
+},
+
+{
+     "name": "Newschecker.in",
+     "country": "India",
+     "language": "Bengali",
+     "url": "https://bengali.newschecker.in/"
+},
+
+{
+     "name": "Newsmeter",
+     "country": "India",
+     "language": "English",
+     "url": "https://newsmeter.in/"
+},
+
+{
+     "name": "Newtral",
+     "country": "Spain",
+     "language": "Spanish",
+     "url": "https://www.newtral.es/zona-verificacion/"
+},
+
+{
+     "name": "Observador",
+     "country": "Portugal",
+     "language": "Portuguese",
+     "url": "https://observador.pt/"
+},
+
+{
+     "name": "Pagella Politca",
+     "country": "Italy",
+     "language": "Italian",
+     "url": "https://pagellapolitica.it/"
+},
+
+{
+     "name": "Patikrinta 15min",
+     "country": "Lithuania",
+     "language": "Lithuanian",
+     "url": "https://www.15min.lt/patikrinta-15min"
+},
+
+{
+     "name": "PesaCheck",
+     "country": "Kenya",
+     "language": "English",
+     "url": "https://pesacheck.org/"
+},
+
+{
+     "name": "PolitiFact",
+     "country": "United States",
+     "language": "English",
+     "url": "https://www.politifact.com/"
+},
+
+{
+     "name": "RMIT ABC Fact Check",
+     "country": "Australia",
+     "language": "English",
+     "url": "https://www.abc.net.au/news/factcheck/"
+},
+
+{
+     "name": "Rappler",
+     "country": "Philippines",
+     "language": "English",
+     "url": "https://www.rappler.com/"
+},
+
+{
+     "name": "Rappler",
+     "country": "Indonesia",
+     "language": "Indonesian",
+     "url": "https://www.rappler.com/indonesia"
+},
+
+{
+     "name": "Re:Baltica",
+     "country": "Latvia",
+     "language": "Latvian",
+     "url": "https://rebaltica.lv/"
+},
+
+{
+     "name": "Re:Baltica",
+     "country": "Latvia",
+     "language": "English",
+     "url": "https://en.rebaltica.lv/"
+},
+
+{
+     "name": "Re:Baltica",
+     "country": "Latvia",
+     "language": "Russian",
+     "url": "https://ru.rebaltica.lv/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "German",
+     "url": "https://www.reutersagency.com/de/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "English",
+     "url": "https://www.reutersagency.com/en/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "Arabic",
+     "url": "https://www.reutersagency.com/ar/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "Chinese",
+     "url": "https://www.reutersagency.com/zh-hant/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "French",
+     "url": "https://www.reutersagency.com/fr/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "Italian",
+     "url": "https://www.reutersagency.com/it/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "Japanese",
+     "url": "https://www.reutersagency.com/ja/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "Portuguese",
+     "url": "https://www.reutersagency.com/pt-br/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "Russian",
+     "url": "https://www.reutersagency.com/ru/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "Spanish",
+     "url": "https://www.reutersagency.com/es/"
+},
+
+{
+     "name": "Science Feedback",
+     "country": "France",
+     "language": "English",
+     "url": "https://sciencefeedback.co/"
+},
+
+{
+     "name": "Stopfake.org",
+     "country": "Ukraine",
+     "language": "English",
+     "url": "https://www.stopfake.org/en/main/"
+},
+
+{
+     "name": "Stopfake.org",
+     "country": "Ukraine",
+     "language": "Russian",
+     "url": "https://www.stopfake.org/ru/glavnaya-2/"
+},
+
+{
+     "name": "Stopfake.org",
+     "country": "Ukraine",
+     "language": "Romanian",
+     "url": "https://www.stopfake.org/ro/pagina-principala/"
+},
+
+{
+     "name": "Stopfake.org",
+     "country": "Ukraine",
+     "language": "Spanish",
+     "url": "https://www.stopfake.org/es/portada/"
+},
+
+{
+     "name": "Stopfake.org",
+     "country": "Ukraine",
+     "language": "Bulgarian",
+     "url": "https://www.stopfake.org/bg/nachalo/"
+},
+
+{
+     "name": "Stopfake.org",
+     "country": "Ukraine",
+     "language": "French",
+     "url": "https://www.stopfake.org/fr/accueil/"
+},
+
+{
+     "name": "Stopfake.org",
+     "country": "Ukraine",
+     "language": "Czech",
+     "url": "https://www.stopfake.org/cz/domu/"
+},
+
+{
+     "name": "Stopfake.org",
+     "country": "Ukraine",
+     "language": "German",
+     "url": "https://www.stopfake.org/de/start/"
+},
+
+{
+     "name": "Stopfake.org",
+     "country": "Ukraine",
+     "language": "Polish",
+     "url": "https://www.stopfake.org/pl/strona-glowna/"
+},
+
+{
+     "name": "Stopfake.org",
+     "country": "Ukraine",
+     "language": "Ukrainian",
+     "url": "https://www.stopfake.org/uk/golovna/"
+},
+
+{
+     "name": "Stopfake.org",
+     "country": "Ukraine",
+     "language": "Bosnian",
+     "url": "https://www.stopfake.org/sr/naslovna/"
+},
+
+{
+     "name": "Stopfake.org",
+     "country": "Ukraine",
+     "language": "Dutch",
+     "url": "https://www.stopfake.org/nl/home-2/"
+},
+
+{
+     "name": "Stopfake.org",
+     "country": "Ukraine",
+     "language": "Italian",
+     "url": "https://www.stopfake.org/it/home/"
+},
+
+
+{
+     "name": "T.V. Today Network Ltd.",
+     "country": "India",
+     "language": "English",
+     "url": "https://www.indiatoday.in/fact-check"
+},
+
+{
+     "name": "Taiwan FactCheck Center",
+     "country": "Taiwan",
+     "language": "Taiwanese",
+     "url": "https://tfc-taiwan.org.tw/"
+},
+
+{
+     "name": "Tempo.co",
+     "country": "Indonesia",
+     "language": "Indonesian",
+     "url": "https://www.tempo.co/"
+},
+
+{
+     "name": "The Dispatch",
+     "country": "United States",
+     "language": "English",
+     "url": "https://thedispatch.com/"
+},
+
+{
+     "name": "The Quint",
+     "country": "India",
+     "language": "English",
+     "url": "https://www.thequint.com/"
+},
+
+{
+     "name": "The Quint",
+     "country": "India",
+     "language": "Hindi",
+     "url": "https://hindi.thequint.com/"
+},
+
+{
+     "name": "The Woshington Post Fact Checker",
+     "country": "United States",
+     "language": "English",
+     "url": "https://www.washingtonpost.com/gdpr-consent/?next_url=https%3a%2f%2fwww.washingtonpost.com%2fnews%2ffact-checker%2f"
+},
+
+{
+     "name": "TheJournal.ie FactCheck",
+     "country": "Ireland",
+     "language": "English",
+     "url": "https://www.thejournal.ie/factcheck/news/"
+},
+
+{
+     "name": "Tirto.id",
+     "country": "Indonesia",
+     "language": "Indonesian",
+     "url": "https://tirto.id/"
+},
+
+{
+     "name": "Delfi",
+     "country": "Lithuania",
+     "language": "Lithuanian",
+     "url": "https://www.delfi.lt/news/melo-detektorius/"
+},
+
+{
+     "name": "Delfi",
+     "country": "Lithuania",
+     "language": "Russian",
+     "url": "https://ru.delfi.lt/"
+},
+
+{
+     "name": "Delfi",
+     "country": "Lithuania",
+     "language": "English",
+     "url": "https://en.delfi.lt/"
+},
+
+{
+     "name": "USA Today",
+     "country": "United States",
+     "language": "English",
+     "url": "https://eu.usatoday.com/"
+},
+
+{
+     "name": "VERA Files",
+     "country": "Philippines",
+     "language": "English",
+     "url": "https://verafiles.org/"
+},
+
+{
+     "name": "Vishvas.News",
+     "country": "India",
+     "language": "Hindi",
+     "url": "http://www.vishvasnews.com/"
+},
+
+{
+     "name": "Vishvas.News",
+     "country": "India",
+     "language": "English",
+     "url": "https://www.vishvasnews.com/english/"
+},
+
+{
+     "name": "VoxUkraine",
+     "country": "Ukraine",
+     "language": "Ukrainian",
+     "url": "https://voxukraine.org/uk/voxcheck/"
+},
+
+{
+     "name": "VoxUkraine",
+     "country": "Ukraine",
+     "language": "Russian",
+     "url": "https://voxukraine.org/ru/voxcheck-ru/"
+},
+
+{
+     "name": "VoxUkraine",
+     "country": "Ukraine",
+     "language": "English",
+     "url": "https://voxukraine.org/en/voxcheck-en/"
+},
+
+{
+     "name": "FranceInfo",
+     "country": "France",
+     "language": "French",
+     "url": "https://www.francetvinfo.fr/"
+},
+
+{
+     "name": "dpa-Faktencheck",
+     "country": "Germany",
+     "language": "German",
+     "url": "https://www.dpa.com/de/"
+},
+
+{
+     "name": "dpa-Faktencheck",
+     "country": "Germany",
+     "language": "English",
+     "url": "https://www.dpa.com/en/"
+},
+
+{
+     "name": "dpa-Faktencheck",
+     "country": "Germany",
+     "language": "Spanish",
+     "url": "https://www.dpa.com/es/"
+},
+
+{
+     "name": "dpa-Faktencheck",
+     "country": "Germany",
+     "language": "Arabic",
+     "url": "https://www.dpa.com/ar/"
+},
+
+
+{
+     "name": "teyit",
+     "country": "Turkey",
+     "language": "Turkish",
+     "url": "https://teyit.org/"
+}
+]
