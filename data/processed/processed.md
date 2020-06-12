@@ -5,6 +5,8 @@
 | ---:| ---: | ---: | ---: |
 | Processed Dataset 1 | [link](link/to/processed/dataset1) | 2,000 | [Processed Dataset 1 Report](link/to/report1)|
 | Processed Dataset 2 | [link](link/to/processed/dataset2) | 300 | [Processed Dataset 2 Report](link/to/report2)|
+| Processed Dataset Medium | [link](https://tub-crawler.s3.eu-central-1.amazonaws.com/processed/data_out_medium.json) | 10 | [Processed Dataset 2 Report](link/to/report2)|
+| Processed Dataset 2 | [link](https://tub-crawler.s3.eu-central-1.amazonaws.com/processed/data_out_large.json) | 63.5 | [Processed Dataset 2 Report](link/to/report2)|
 
 
 If the link to the full dataset does not apply, provide some information on how to access the full dataset. 
