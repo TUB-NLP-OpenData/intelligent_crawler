@@ -60,6 +60,8 @@ def transform_data(df):
     data_json = []
 
     for row in df.itertuples(index=False):
+        if row.language != 'en':
+            continue
         df_labels = []
         page = requests.get(row.claimReview_url)
         soup = BeautifulSoup(page.text, 'html.parser')
@@ -89,18 +91,18 @@ def transform_data(df):
                 df_labels.append(
                     [index_publish_date, index_publish_date + len(date[0]) - 1, 'creativeWork_datePublished'])
 
-        data_json.append({'text': cleaned_body, 'labels': df_labels})
+        # data_json.append({'text': cleaned_body, 'labels': df_labels})
+        file_out.write(json.dumps({'text': cleaned_body, 'labels': df_labels}) + "\n")
         print('Completed {0} of {1}'.format(completion_count, len(df)))
         completion_count += 1
 
-    with open('data/processed/data_out.json', 'a+') as file_out:  # Use file to refer to the file object
-        file_out.truncate(0)
-        file_out.write(json.dumps(data_json))
-        file_out.close()
+
 
 
 if __name__ == "__main__":
 
     df = pd.read_csv("data/raw/data_out_tiny.csv")
-
-    transform_data(df.head(3))
+    file_out = open('data/processed/data_out.json', 'a+')  # Use file to refer to the file object
+    file_out.truncate(0)
+    transform_data(df)
+    file_out.close()
