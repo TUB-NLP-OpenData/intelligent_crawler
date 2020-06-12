@@ -1,13 +1,14 @@
 .PHONY: build clean
 
-VENV=.venv/bin/activate
+VENV=.env/bin/activate
 
 build: clean
-	virtualenv .venv
-	.venv/bin/pip install -r requirements.txt
+	python3 -m venv .env
+	.env/bin/pip3 install -r requirements.txt
 
 run:
 	. $(VENV); python generate_testbed_definition.py
 
 clean:
 	rm -rf .env/
+	rm -rf .ve*/
