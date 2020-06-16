@@ -15,177 +15,35 @@
 
 {
      "name": "AFP Fact Checking",
-     "country": "United States",
-     "language": "English",
-     "url": "https://www.afp.com/en/news-hub"
-},
-
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Canada",
-     "language": "English",
-     "url": "https://www.afp.com/en/news-hub"
-},
-
-
-{
-     "name": "AFP Fact Checking",
-     "country": "United Kingdom",
+     "country": ["United States", "Canada", "united Kingdom", "Australia"],
      "language": "English",
      "url": "https://www.afp.com/en/news-hub"
 },
 
 {
      "name": "AFP Fact Checking",
-     "country": "Australia",
-     "language": "English",
-     "url": "https://www.afp.com/en/news-hub"
-},
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Germany",
+     "country": ["Germany", "Austria"],
      "language": "German",
      "url": "https://www.afp.com/de"
 },
 
 {
      "name": "AFP Fact Checking",
-     "country": "Austria",
-     "language": "German",
-     "url": "https://www.afp.com/de"
-},
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Brazil",
+     "country": ["Brazil", "Portugal"],
      "language": "Portuguese",
      "url": "https://www.afp.com/pt"
 },
 
 {
      "name": "AFP Fact Checking",
-     "country": "Portugal",
-     "language": "Portuguese",
-     "url": "https://www.afp.com/pt"
-},
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Spain",
+     "country": ["Spain", "Argentina", "Chile", "Uruguay", "Bolivia", "Peru", "Mexico"],
      "language": "Spanish",
      "url": "https://www.afp.com/es"
 },
 
 {
      "name": "AFP Fact Checking",
-     "country": "Argentina",
-     "language": "Spanish",
-     "url": "https://www.afp.com/es"
-},
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Chile",
-     "language": "Spanish",
-     "url": "https://www.afp.com/es"
-},
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Uruguay",
-     "language": "Spanish",
-     "url": "https://www.afp.com/es"
-},
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Bolivia",
-     "language": "Spanish",
-     "url": "https://www.afp.com/es"
-},
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Peru",
-     "language": "Spanish",
-     "url": "https://www.afp.com/es"
-},
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Mexico",
-     "language": "Spanish",
-     "url": "https://www.afp.com/es"
-},
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Saudi Arabia",
-     "language": "Arabic",
-     "url": "https://www.afp.com/ar/news-hub"
-},
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Egypt",
-     "language": "Arabic",
-     "url": "https://www.afp.com/ar/news-hub"
-},
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Jordan",
-     "language": "Arabic",
-     "url": "https://www.afp.com/ar/news-hub"
-},
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Libya",
-     "language": "Arabic",
-     "url": "https://www.afp.com/ar/news-hub"
-},
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Tunisia",
-     "language": "Arabic",
-     "url": "https://www.afp.com/ar/news-hub"
-},
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Morocco",
-     "language": "Arabic",
-     "url": "https://www.afp.com/ar/news-hub"
-},
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Algeria",
-     "language": "Arabic",
-     "url": "https://www.afp.com/ar/news-hub"
-},
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Iraq",
-     "language": "Arabic",
-     "url": "https://www.afp.com/ar/news-hub"
-},
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Iran",
-     "language": "Arabic",
-     "url": "https://www.afp.com/ar/news-hub"
-},
-
-{
-     "name": "AFP Fact Checking",
-     "country": "Qatar",
+     "country": ["Saudi Arabia","Egypt", "Jordan", "Libya", "Tunisia","Morocco","Algeria","Iraq","Iran","Qatar"],
      "language": "Arabic",
      "url": "https://www.afp.com/ar/news-hub"
 },
@@ -277,14 +135,7 @@
 
 {
      "name": "Congo Check",
-     "country": "Democratic Republic of the Congo",
-     "language": "French",
-     "url": "http://www.congocheck.net/"
-},
-
-{
-     "name": "Congo Check",
-     "country": "Republic of the Congo",
+     "country": ["Democratic Republic of the Congo", "Republic of the Congo"],
      "language": "French",
      "url": "http://www.congocheck.net/"
 },
@@ -305,14 +156,7 @@
 
 {
      "name": "Dubawa",
-     "country": "Nigeria",
-     "language": "English",
-     "url": "https://dubawa.org/"
-},
-
-{
-     "name": "Dubawa",
-     "country": "Ghana",
+     "country": ["Ghana", "Nigeria"],
      "language": "English",
      "url": "https://dubawa.org/"
 },
@@ -359,12 +203,6 @@
      "url": "https://english.factcrescendo.com/"
 },
 
-{
-     "name": "Fact Crescendo",
-     "country": "India",
-     "language": "English",
-     "url": "https://english.factcrescendo.com/"
-},
 
 {
      "name": "Fact Crescendo",
