@@ -268,15 +268,8 @@
 },
 
 {
-     "name": "FactCheck ",
-     "country": "United States",
-     "language": "English",
-     "url": "https://www.factcheck.org/"
-},
-
-{
      "name": "FactCheckNI",
-     "country": "United Kingdom",
+     "country": ["United Kingdom","United States"],
      "language": "English",
      "url": "https://factcheckni.org/"
 },
