@@ -1,3 +1,11 @@
+# White List Files
+
+1. white_list.json: contains all fact checkers defined by IFCN Network
+2. en_ital_fr_es_de_portug.json: contains all fact checker with rss feed for Italian, Spanish, English, Portuguese, French and German
+3. other_languages.json: contains all fact checkers with rss feeds of all other languages
+4. without_rss.json: contains all other fact checkers without rss feed
+5. eventually_not_useful.json: contains all fact checkers which are rather conventional news platforms than fact checkers
+
 ## Definition of White List
 
 Fact Checkers on the white list are those who are signatories of the International Fact-Cheking Network (IFCN) and comply to their Code of Principles. 

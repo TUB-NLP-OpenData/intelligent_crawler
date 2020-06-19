@@ -1,0 +1,128 @@
+"white_list_excluded": [
+{
+     "name": "EFE Verifica - Agencia EFE",
+     "country": "Spain",
+     "language": "Spanish",
+     "url": "https://www.efe.com/efe/espana/efeverifica/50001435"
+},
+
+"name": "RMIT ABC Fact Check",
+     "country": "Australia",
+     "language": "English",
+     "url": "https://www.abc.net.au/news/factcheck/"
+},
+
+{
+     "name": "Rappler",
+     "country": "Philippines",
+     "language": "English",
+     "url": "https://www.rappler.com/"
+},
+
+{
+     "name": "Rappler",
+     "country": "Indonesia",
+     "language": "Indonesian",
+     "url": "https://www.rappler.com/indonesia"
+},
+{
+     "name": "Re:Baltica",
+     "country": "Latvia",
+     "language": "English",
+     "url": "https://en.rebaltica.lv/"
+},
+
+{
+     "name": "Re:Baltica",
+     "country": "Latvia",
+     "language": "Russian",
+     "url": "https://ru.rebaltica.lv/"
+},
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "German",
+     "url": "https://www.reutersagency.com/de/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "English",
+     "url": "https://www.reutersagency.com/en/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "Arabic",
+     "url": "https://www.reutersagency.com/ar/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "Chinese",
+     "url": "https://www.reutersagency.com/zh-hant/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "French",
+     "url": "https://www.reutersagency.com/fr/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "Italian",
+     "url": "https://www.reutersagency.com/it/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "Japanese",
+     "url": "https://www.reutersagency.com/ja/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "Portuguese",
+     "url": "https://www.reutersagency.com/pt-br/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "Russian",
+     "url": "https://www.reutersagency.com/ru/"
+},
+
+{
+     "name": "Reuters",
+     "country": "United States",
+     "language": "Spanish",
+     "url": "https://www.reutersagency.com/es/"
+},
+{
+     "name": "The Woshington Post Fact Checker",
+     "country": "United States",
+     "language": "English",
+     "url": "https://www.washingtonpost.com/gdpr-consent/?next_url=https%3a%2f%2fwww.washingtonpost.com%2fnews%2ffact-checker%2f"
+},
+{
+     "name": "USA Today",
+     "country": "United States",
+     "language": "English",
+     "url": "https://eu.usatoday.com/"
+},
+{
+     "name": "FranceInfo",
+     "country": "France",
+     "language": "French",
+     "url": "https://www.francetvinfo.fr/"
+}
+]
