@@ -107,7 +107,7 @@ try:
         json.dump(data, outfile, indent=2, ensure_ascii=False)
 except Exception as e: print(e)
 
-#in terminal: python3 NewsScraper.py
+#in terminal: time python3 NewsScraper.py
 
 #Next Steps:
 #1. check if missing languages are not supported, if so check how to add them to the list

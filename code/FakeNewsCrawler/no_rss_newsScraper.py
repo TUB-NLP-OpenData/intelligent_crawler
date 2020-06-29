@@ -5,11 +5,12 @@ from newspaper import Article
 from time import mktime
 from datetime import datetime
 
+
 #https://github.com/holwech/NewsScraper
 #https://holwech.github.io/blog/Automatic-news-scraper/ (with explanation)
 
 # Set the limit for number of articles to download
-LIMIT = 40 #can also be higher
+LIMIT = 3 #can also be higher
 
 data = {} #data object where scraped data will be stored
 data['factcheckers'] = {}
@@ -107,7 +108,8 @@ try:
         json.dump(data, outfile, indent=2, ensure_ascii=False)
 except Exception as e: print(e)
 
-#in terminal: python3 NewsScraper.py
+
+#in terminal: time python3 NewsScraper.py
 
 #Problems with: always date is missing
 #AP

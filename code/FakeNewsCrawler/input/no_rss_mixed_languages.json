@@ -1,40 +1,15 @@
 {
-  "AFP Fact Checking": {
-    "link": "https://www.afp.com/fr/plateforme-de-linfo"
-  },
-  "AFP Fact Checking": {
-    "link": "https://www.afp.com/en/news-hub"
-  },
-  "AFP Fact Checking": {
-    "link": "https://www.afp.com/pt"
-  },
-  "AFP Fact Checking": {
-    "link": "https://www.afp.com/es"
-  },
-  "AFP Fact Checking": {
-    "link": "https://www.afp.com/ar/news-hub"
-  },
+
   "AP": {
     "link": "https://www.ap.org/en-gb/"
   },
   "Center for Democratic Transition": {
   "link": "https://www.raskrinkavanje.me/"
   },
-  "Check Your Fact": {
-  "link": "https://checkyourfact.com/"
-  },
-  "Colombia Check": {
-    "link": "https://colombiacheck.com/"
-  },
-  "Décrypteurs": {
-  "link": "https://ici.radio-canada.ca/decrypteurs"
-  },
   "FactCheck Georgia": {
   "link": "https://factcheck.ge/ka?"
   },
-  "Grupo La Republica Publicaciones SA": {
-  "link": "https://larepublica.pe/verificador/"
-  },
+
   "JTBC": {
   "link": "http://news.jtbc.joins.com/factcheck/"
   },
@@ -61,9 +36,6 @@
   },
   "Patikrinta 15min": {
   "link": "https://www.15min.lt/patikrinta-15min"
-  },
-  "PolitiFact": {
-  "link": "https://www.politifact.com/"
   },
   "Taiwan FactCheck Center": {
   "link": "https://tfc-taiwan.org.tw/"

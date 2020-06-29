@@ -1,9 +1,9 @@
 {
-     "20 Minutes": {
-          "rss": "https://www.20minutes.fr/rss/une.xml",
-          "link": "https://www.20minutes.fr/societe/desintox/"
+  "Pagella Politca": {
+    "rss": "https://pagellapolitica.it/feed/recenti",
+    "link": "https://pagellapolitica.it/"
      },
-     "Corrective": {
+  "Corrective Germany": {
           "rss": "https://correctiv.org/de/rss",
           "link": "https://correctiv.org/de/"
      },
@@ -19,7 +19,7 @@
           "rss": "https://cotejo.info/rss",
           "link": "https://cotejo.info/"
      },
-     "Pubawa": {
+     "Dubawa": {
           "rss": "https://dubawa.org/feed/",
           "link": "https://dubawa.org/"
      },
@@ -40,32 +40,20 @@
     "link": "https://ghanafact.com/"
      },
      "FactCheck.kz": {
-    "rss": "https://factcheck.kz/en/",
+    "rss": "https://factcheck.kz/en/rss",
     "link": "https://factcheck.kz/en/"
      },
      "FullFact": {
     "rss": "https://fullfact.org/feed/",
     "link": "https://fullfact.org/"
   },
-  "Istinomer": {
-    "rss": "https://english.istinomer.rs/rss",
-    "link": "https://english.istinomer.rs/"
-  },
+
   "Lead Stories": {
     "rss": "https://leadstories.com/atom.xml",
     "link": "https://leadstories.com/"
   },
   "Liberation CheckNews": {
-    "rss": "http://rss.liberation.fr/rss/100893/",
     "link": "https://www.liberation.fr/checknews,100893"
-  },
-  "Maldita.es": {
-    "rss": "https://maldita.es/malditobulo/rss",
-    "link": "https://maldita.es/malditobulo/"
-  },
-  "Media Wise": {
-    "rss": "https://www.poynter.org/mediawise/rss",
-    "link": "https://www.poynter.org/mediawise/"
   },
   "NewsMobile": {
     "rss": "http://newsmobile.in/articles/category/nm-fact-checker/rss",
@@ -75,72 +63,45 @@
     "rss": "http://newschecker.in/rss",
     "link": "http://newschecker.in/"
   },
-  "Newsmeter": {
-    "rss": "https://newsmeter.in/feed/",
-    "link": "https://newsmeter.in/"
-  },
   "Newtral": {
     "rss": "https://www.newtral.es/zona-verificacion/rss",
     "link": "https://www.newtral.es/zona-verificacion/"
-  },
-  "Observador": {
-    "rss": "https://observador.pt/rss",
-    "link": "https://observador.pt/"
   },
   "PesaCheck": {
     "rss": "https://pesacheck.org/feed",
     "link": "https://pesacheck.org/"
   },
-  "Science Feedback": {
-    "rss": "https://sciencefeedback.co/rss",
-    "link": "https://sciencefeedback.co/"
+  "PolitiFact": {
+  "link": "https://www.politifact.com/"
   },
-  "Stopfake.org": {
-    "rss": "https://www.stopfake.org/en/main/rss",
+    "Stopfake UK": {
     "link": "https://www.stopfake.org/en/main/"
   },
-  "Stopfake.org": {
-    "rss": "https://www.stopfake.org/es/portada/rss",
+  "Stopfake Spain": {
     "link": "https://www.stopfake.org/es/portada/"
   },
-  "Stopfake.org": {
-    "rss": "https://www.stopfake.org/fr/accueil/rss",
+  "Stopfake France": {
     "link": "https://www.stopfake.org/fr/accueil/"
   },
-  "Stopfake.org": {
-    "rss": "https://www.stopfake.org/de/start/rss",
+  "Stopfake Germany": {
     "link": "https://www.stopfake.org/de/start/"
   },
-  "Stopfake.org": {
-    "rss": "https://www.stopfake.org/it/home/rss",
+  "Stopfake Italy": {
     "link": "https://www.stopfake.org/it/home/"
-  },
-  "T.V. Today Network Ltd.": {
-    "rss": "https://www.indiatoday.in/taxonomy/term/1792990/feed",
-    "link": "https://www.indiatoday.in/fact-check"
   },
   "The Dispatch": {
     "rss": "https://thedispatch.com/feed",
     "link": "https://thedispatch.com/"
   },
-  "The Quint": {
-    "rss": "https://www.thequint.com/feed",
-    "link": "https://www.thequint.com/"
-  },
-  "TheJournal.ie FactCheck": {
-    "rss": "view-source:https://www.thejournal.ie/factcheck/feed/",
-    "link": "https://www.thejournal.ie/factcheck/news/"
-  },
   "Vishvas.News": {
     "rss": "https://www.vishvasnews.com/english/rss",
     "link": "https://www.vishvasnews.com/english/"
   },
-  "VoxUkraine": {
-    "rss": "https://voxukraine.org/en/voxcheck-en/rss",
-    "link": "https://voxukraine.org/en/voxcheck-en/"
-  },
   "FactCheck": {
     "rss": "https://www.factcheck.org/rss",
     "link": "https://www.factcheck.org/"
+  },
+  "Check Your Fact": {
+  "link": "https://checkyourfact.com/"
   }
 }
