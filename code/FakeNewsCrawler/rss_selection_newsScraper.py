@@ -114,9 +114,11 @@ try:
         json.dump(data, outfile, indent=2, ensure_ascii=False)
 except Exception as e: print(e)
 
+
 #in terminal: time python3 NewsScraper.py
 # everything works actually fine except:
 # 1. Check Your Fact, there the title is missing for the articles
 # 2. 3 Fact Checkers are not working, they are saved in no_rss_not_working.json
 
 
+#Time:  345.11s user 4.30s system 22% cpu 26:16.33 total
