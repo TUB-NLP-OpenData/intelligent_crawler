@@ -69,7 +69,7 @@ for fact_checker, value in fact_checkers.items():
         # This is the fallback method if a RSS-feed link is not provided.
         # It uses the python newspaper library to extract articles
         print("Building site for ", fact_checker)
-        paper = newspaper.build(value['link'], memoize_articles=False)
+        paper = newspaper.build(value['link'], memoize_articles=True)  #right now all the articles from a website are scraped, when set to "True" then there will be a lookup for existing articles in the output file (?)
         factChecker = {
             "link": value['link'],
             "articles": []
