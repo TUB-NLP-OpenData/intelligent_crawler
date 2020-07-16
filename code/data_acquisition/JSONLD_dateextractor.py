@@ -1,7 +1,5 @@
-import pandas as pd
 import json
 import urllib
-import requests
 import feedparser
 from bs4 import BeautifulSoup
 
