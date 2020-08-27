@@ -22,6 +22,7 @@ rss_source=json.loads(invoke_http(white_lsit))
 for i,e in enumerate(rss_source):
     if "rss" in rss_source[e].keys():
         for j,article in enumerate(feedparser.parse(rss_source[e]["rss"]).entries):
+            print(rss_source[e]["rss"])
             try:
                 row=article
                 print (str(i)+" "+str(j)+" "+article.link)
@@ -30,4 +31,4 @@ for i,e in enumerate(rss_source):
             except:
                 pass
 print ("saved articles="+str(len(data_set)))
-pd.DataFrame(data_set).to_json("out.json")
+#pd.DataFrame(data_set).to_json("out.json")
