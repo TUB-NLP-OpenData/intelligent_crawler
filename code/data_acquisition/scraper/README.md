@@ -32,4 +32,9 @@ Therefore, divide the input data into smaller batches (see news_spider.py in scr
 1. Place input file under **data** directory.
 2. Set batch to a reasonable size like ~3000. (see news_spider.py in scraper directory).
 3. Start crawling: `scrapy crawl news-crawler`
-4. Output saved under **data** directory. 
+4. Output saved under **data** directory.
+
+## Troubleshooting
+
+1. If python-env is not installed:
+    `sudo apt install python3-env`
