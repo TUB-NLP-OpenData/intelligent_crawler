@@ -38,7 +38,7 @@ service-identity==18.1.0
 six==1.15.0
 soupsieve==2.2.1
 Twisted==21.2.0
-twisted-iocpsupport==1.0.1
+#twisted-iocpsupport==1.0.1
 tzlocal==2.1
 urllib3==1.26.4
 w3lib==1.22.0
