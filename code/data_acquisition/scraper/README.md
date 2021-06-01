@@ -33,10 +33,10 @@ In case this command fails, follow the detailed instructions below:
 
 ## Running the crawler
 
-1. Place input file under **data** directory.
+1. Place input file in **data** directory under `code/data_acquisition/scraper`.
 2. Set batch to a reasonable size like ~3000. (see news_spider.py in scraper directory).
 3. Start crawling: `make run-crawler` or `scrapy crawl news-crawler`
-4. Output saved in **data** directory under `data_acquisition/scraper`.
+4. Output saved in **data** directory under `code/data_acquisition/scraper`.
 
 ## Troubleshooting
 
