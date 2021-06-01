@@ -48,12 +48,8 @@ Applay this "intelligent Crawler" to automatically extract structured data from 
     1. How to link a KB to existing Open Data Repositories (e.g. dbpedia.org)   
 
 # Running Intelligent Crawler
-First create a virtualenv and install all dependencies:
-- ``virtualenv .venv``
-- ``. .venv/bin/activate``
-- ``pip install -r requirements.txt``
-
-Run *transform.py* script :  `python transform.py`
+Instructions to run Scrapy crawler can be found here - 
+[Scrapy Crawler readme](code/data_acquisition/scraper/README.md)
 
 ## Information Extracted
 From the fact-checker, we use only metadata publicly available on the internet, such as the claim, date, source, amongst others.
