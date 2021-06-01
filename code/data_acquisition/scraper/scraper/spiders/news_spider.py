@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 from transform import *
 
 log = logging.getLogger(__name__)
-file_out = open('data\\data_out_clean_test.json', 'a+')
+file_out = open('data/data_out_clean_test.json', 'a+')
 
 
 # Do not use truncate() if we want to run Scrapy in batches.
@@ -23,12 +23,10 @@ class NewsSpider(scrapy.Spider):
     }
     urls = []
 
-    df = pd.read_csv("data\\data_out_clean_test.csv")
+    df = pd.read_csv("data/data_out_clean_test.csv")
 
     # Ideally choose batch size of 2000 to 3000. Uncomment the line below.
     # df = df[1:3000]
-
-    file_out = open('data\\data_out_clean.json', 'a+')
 
     def start_requests(self):
         # urls = self.urls
